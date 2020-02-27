@@ -1,2 +1,2 @@
 # hello-world
-Hello I am a nerd from Southeast Asia.
+Hello, I hope bad things will pass. 
